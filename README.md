@@ -7,7 +7,7 @@ O objetivo principal desse projeto é desenvolver um sistema que automaticamente
 Como objetivo secundário, é mostrada a temperatura atual no sistema, com o intuito de ser um informativo para aqueles que venham a necessitar.  
 
 FERRAMENTAS UTILIZADAS:
-
+-
 - STM32CubeIDE 1.6.0 : Para criação dos códigos
 - Proteus 8 : Para simulação do sistema
 
