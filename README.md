@@ -18,7 +18,7 @@ O projeto tem por princípio a conversão de um sinal analógico para digital pa
 O sistema conta com um sensor de temperatura LM35 para fornecer o sinal analógico e de um ADC interno ao microcontrolador para fornecer o sinal digital.
 
 COMPONENTES:
-
+-
 - Microcontrolador STM32F103C6
 - 16 X 2 LCD Display
 - LM35
@@ -41,6 +41,7 @@ Em paralelo a isso, ao crescer e decrescer da temperatura no LM35, é mostrado n
 RESULTADOS:
 
 Quanto 
+
 - 
 
 Link do vídeo explicativo sobre o projeto: https://www.youtube.com/watch?v=4EThGuIC_vk&ab_channel=PedroHenrique.
