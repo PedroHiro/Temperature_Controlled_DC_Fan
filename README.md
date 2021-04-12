@@ -11,8 +11,13 @@ FERRAMENTAS UTILIZADAS:
 - STM32CubeIDE 1.6.0 : Para criação dos códigos
 - Proteus 8 : Para simulação do sistema
 
-**Apresentar esquemático**
+ESQUEMÁTICO:
+-
+O esquemático do projeto se encontra no arquivo feito no Proteus 8:
+- ProjetoFinal.pdsprj
 
+PRINCÍPIOS:
+-
 O projeto tem por princípio a conversão de um sinal analógico para digital para, então, seguir para seus respectivos destinos.
 
 O sistema conta com um sensor de temperatura LM35 para fornecer o sinal analógico e de um ADC interno ao microcontrolador para fornecer o sinal digital.
