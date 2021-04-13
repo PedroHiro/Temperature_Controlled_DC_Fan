@@ -16,6 +16,11 @@ ESQUEMÁTICO:
 O esquemático do projeto se encontra no arquivo feito no Proteus 8:
 - ProjetoFinal.pdsprj
 
+DIAGRAMA DE BLOCOS:
+-
+O diagrama de blocos do projeto se encontra no arquivo:
+- Diagrama de blocos - controle de temperatura.PNG
+
 PRINCÍPIOS:
 -
 O projeto tem por princípio a conversão de um sinal analógico para digital para, então, seguir para seus respectivos destinos.
